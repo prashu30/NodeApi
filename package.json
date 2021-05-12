@@ -18,6 +18,6 @@
     "jsonwebtoken": "^8.5.1",
     "jwt-decode": "^2.2.0",
     "mongoose": "^5.8.7",
-    "nodemailer": "^6.4.2"
+    "nodemailer": "^6.4.16"
   }
 }
